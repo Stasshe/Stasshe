@@ -23,15 +23,9 @@ Here are some ideas to get you started:
 ### <div align="center"></div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
--   
-  
-
+- 🔭 This is my tech-platform page -> [Roughfts-tech-platform](https://roughfts-tech-platform.onrender.com)
+-  You can fork this modern React site. 
 - ❓ Ask me about anything related to School filtering restrictions.  
-  
-
 <br/>  
 
 
