@@ -96,11 +96,10 @@ Here are some ideas to get you started:
 </div>  
 
 <br/>
-### Connnect
+### Connect
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
-</div>  
-
+</div>
 <br/>  
 
 <div align="center"></div>
