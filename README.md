@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 </div>  
 
 <br/>
-## Connnect
+### Connnect
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
 </div>  
