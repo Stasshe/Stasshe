@@ -102,24 +102,21 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=stasshe&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasshe" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stasshe&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasshe" />
+  </a>
+</div>  
 
-  </div>  
-
-<br/>  
+<br/>
 ## Connect
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
