@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi! I'm Roughfts.  
 <div align="center">
-<img src="https://roughfts-tech-platform.onrender.com/assets/ico.png" align="center" style="width: 100%" />
+<img src="https://roughfts-tech-platform.onrender.com/assets/ico.png" align="center" style="width: 100px" />
 </div>  
   
 
