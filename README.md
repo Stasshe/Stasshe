@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   </a>
 </div>  
 
-<br/>
+<br/><br/>
 ### Connect
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
