@@ -95,15 +95,18 @@ Here are some ideas to get you started:
   </a>
 </div>  
 
-<br/><br/>
+<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stasshe&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
+
+<br/>
 ### Connect
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
 </div>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Stasshe&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<br />
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
