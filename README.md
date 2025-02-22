@@ -103,6 +103,8 @@ Here are some ideas to get you started:
 <br/>  
 
 <div align="center"></div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stasshe&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 
 ----
