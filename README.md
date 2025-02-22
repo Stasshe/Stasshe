@@ -100,11 +100,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
 </div>
-<br/>  
+<br/>
 
-<div align="center"></div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Stasshe&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stasshe&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 
 ----
