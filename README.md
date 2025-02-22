@@ -95,7 +95,7 @@ Here are some ideas to get you started:
   </a>
 </div>  
 
-<br/>
+<br/><br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stasshe&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 
