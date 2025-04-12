@@ -1,4 +1,6 @@
-
+<!-- 
+ANIMATED HEADER BANNER AND GREETING
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Roughfts&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%"/>
@@ -28,7 +30,7 @@
 - 🌱 Always learning and experimenting with new technologies
 - ⚡ Fun fact: I love creating unique digital experiences!
 
-<!-- ANIMATED TECH STACK -->
+<!-- IMPROVED TECH STACK WITH CONSISTENT ICON SIZES -->
 ## 🛠️ My Tech Stack
 
 <table>
@@ -36,27 +38,52 @@
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,python,swift,vue,solidjs" alt="Frontend Skills" />
+        <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /></a>
         <br/>
-        <img src="https://skillicons.dev/icons?i=unity,opencv,blender,latex,wordpress" alt="Additional Frontend Skills" />
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /></a>
         <br/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="45" height="45" alt="Canva" />
+        <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50" /></a>
+        <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" /></a>
+        <a href="https://www.solidjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="50" height="50" /></a>
+        <br/>
+        <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" /></a>
+        <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" /></a>
+        <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="50" height="50" /></a>
+        <br/>
+        <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" /></a>
+        <a href="https://wordpress.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50" /></a>
+        <a href="https://www.canva.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Backend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,git,bash,firebase,aws,ts,js,mongodb" alt="Backend Skills" />
+        <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /></a>
         <br/>
-        <img src="https://skillicons.dev/icons?i=gcp,nextjs" alt="Additional Backend Skills" />
+        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" /></a>
+        <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" /></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" /></a>
+        <br/>
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /></a>
+        <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">DevOps</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,git,docker,github" alt="DevOps Skills" />
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" /></a>
+        <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /></a>
         <br/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/codespaces/codespaces-original.svg" width="45" height="45" alt="GitHub Codespaces" />
+        <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /></a>
+        <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /></a>
       </div>
     </td>
   </tr>
