@@ -1,112 +1,113 @@
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Roughfts&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://roughfts-tech-platform.onrender.com/assets/ico.png" align="center" style="width: 100px" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+there!+I'm+Roughfts;Full-Stack+Developer;Creative+Coder;Tech+Explorer" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <a href="https://roughfts-tech-platform.onrender.com">
+    <img src="https://img.shields.io/badge/Tech_Platform-Visit_Website-blue?style=for-the-badge&logo=react" alt="Tech Platform"/>
+  </a>
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+- 🔭 I'm maintaining my tech platform → [Roughfts-tech-platform](https://roughfts-tech-platform.onrender.com)
+- 💻 You can fork this modern React site
+- 🔐 Ask me about anything related to School filtering restrictions
+- 🌱 Always learning and experimenting with new technologies
+- ⚡ Fun fact: I love creating unique digital experiences!
+
+<!-- ANIMATED TECH STACK -->
+## 🛠️ My Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,python,swift,vue,solidjs" alt="Frontend Skills" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=unity,opencv,blender,latex,wordpress" alt="Additional Frontend Skills" />
+        <br/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="45" height="45" alt="Canva" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,git,bash,firebase,aws,ts,js,mongodb" alt="Backend Skills" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=gcp,nextjs" alt="Additional Backend Skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">DevOps</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,git,docker,github" alt="DevOps Skills" />
+        <br/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/codespaces/codespaces-original.svg" width="45" height="45" alt="GitHub Codespaces" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- ANIMATED STATS SECTION -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stasshe&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stasshe&show_icons=true&count_private=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasshe&layout=compact&theme=tokyonight" height="170px" />
+</div>
+
+<!-- ANIMATED CONTRIBUTION GRAPH -->
+<div align="center">
+  <a href="https://github.com/stasshe/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=stasshe&theme=tokyo-night&hide_border=true" />
+  </a>
+</div>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stasshe&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<div align="center">
+  <img src="https://github.com/stasshe/stasshe/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <!-- Add your social media badges here -->
+  <a href="https://github.com/stasshe" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=stasshe&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+<!--
+FOOTER WITH ANIMATION
 -->
 
-
-
-
-### Hi! I'm Roughfts.  
 <div align="center">
-<img src="https://roughfts-tech-platform.onrender.com/assets/ico.png" align="center" style="width: 100px" />
-</div>  
-  
-
-### <div align="center"></div>  
-  
-
-- 🔭 This is my tech-platform page -> [Roughfts-tech-platform](https://roughfts-tech-platform.onrender.com)
--  You can fork this modern React site. 
-- ❓ Ask me about anything related to School filtering restrictions.  
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-## Github Stats  
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stasshe&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stasshe" />
-  </a>
-</div>  
-
-<br/><br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Stasshe&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<br />
-
-<br/>
-### Connect
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stasshe&&style=flat-square" align="center" />
-</div>
-<br/>
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
