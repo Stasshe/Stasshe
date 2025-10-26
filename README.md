@@ -24,7 +24,6 @@ ANIMATED HEADER BANNER AND GREETING
 
 ## 🚀 About Me
 
-- 🔭 I'm maintaining my tech platform → [Roughfts-tech-platform](https://roughfts-tech-platform.onrender.com)
 - 💻 You can fork this modern React site
 - 🔐 Ask me about anything related to School filtering restrictions
 - 🌱 Always learning and experimenting with new technologies
