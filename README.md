@@ -18,10 +18,7 @@ ANIMATED HEADER BANNER AND GREETING
 
 ## 🚀 About Me
 
-- 💻 You can fork this modern React site
-- 🔐 Ask me about anything related to School filtering restrictions
-- 🌱 Always learning and experimenting with new technologies
-- ⚡ Fun fact: I love creating unique digital experiences!
+- U22 procon 2025 経済産業大臣賞 テクノロジー部門
 
 <!-- IMPROVED TECH STACK WITH CONSISTENT ICON SIZES -->
 ## 🛠️ My Tech Stack
