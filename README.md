@@ -19,6 +19,7 @@ ANIMATED HEADER BANNER AND GREETING
 ## 🚀 About Me
 
 - U22 procon 2025 経済産業大臣賞 テクノロジー部門
+- 同上大会 アクセンチュア賞
 
 <!-- IMPROVED TECH STACK WITH CONSISTENT ICON SIZES -->
 ## 🛠️ My Tech Stack
