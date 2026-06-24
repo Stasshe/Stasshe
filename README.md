@@ -3,7 +3,7 @@ ANIMATED HEADER BANNER AND GREETING
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Roughfts&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stasshe&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@ ANIMATED HEADER BANNER AND GREETING
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+there!+I'm+Roughfts;Full-Stack+Developer;Creative+Coder;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+there!+I'm+Stasshe;Full-Stack+Developer;Creative+Coder;Tech+Explorer" alt="Typing SVG" />
 </h1>
 
 <br/>
